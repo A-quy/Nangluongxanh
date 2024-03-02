@@ -1,0 +1,610 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="vn">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width" />
+						<title>Năng lượng mặt trời - Lắp đặt năng lượng mặt trời giá rẻ, Pin năng lượng mặt trời</title>
+		<meta name="description" content="Năng Lượng Xanh_Hạ Long - Hệ thống chuyên cung cấp dịch vụ lắp đặt hệ thống năng lượng mặt trời tốt nhất GIÁ RẺ NHẤT ." />
+		<meta name="keywords" content="Năng lượng mặt trời, Lắp đặt năng lượng mặt trời, pin mặt trời, Giải pháp tiết kiệm điện mùa hè, năng lượng xanh, năng lượng rẻ,Tiết kiệm điện cho từng hộ gia đình, Điều hòa, Chống nóng, Pin mặt trời giá rẻ" />
+		<meta name="robots" content="index,follow" />
+
+		</head>
+	<body>
+		<div class="topheadhalong">
+			<div class="container align-section-title">
+				<div class="row head">
+					<div class="hidden-md hidden-lg col-md-12 col-sm-12 col-xs-12" id="page">
+						<script>
+	jQuery( document ).ready(function() {
+		jQuery('nav#menu').mmenu();
+		jQuery(".header .asupport").click(function() {
+			jQuery( "#supportmobile" ).toggle();
+		});
+	});
+</script>
+<div class="header">
+	<a class="amenu" href="#menu"></a>
+	<div class="f-fix">
+		<!--<a class="logo" href="/"><img src="/images/logo-tet.jpg" alt="Ha Long Travel" /></a>-->
+		<a class="logo" href="/"><img src="/images/logo_halong.jpg" width="" height="" alt="Ha Long Travel" /></a>
+	</div>
+	<a class="asupport"></a>
+</div>
+<div style="display:none;" id="supportmobile">
+	<div class="sidebar sidebar_mb sidebar_support_mb">				
+<div class="block-content">
+	<div class="support-online">
+		<p><strong>0974.207.749 / 0325.891.628</strong></p>
+		<p style="padding-left:10px; font-size:17px;"><a href="mailto:info@dulichhalong.net" class="email" style="color:#3097de;">Email: info@dulichhalong.net</a></p>
+		<ul>
+			<li class="first" style="margin-bottom:15px;">
+				<span class="avata avata-02">call</span>
+			</li>
+			<li class="first" style="margin-bottom:15px;">					
+				<span class="avata avata-04">call</span>
+				<div>
+			</li>
+			<li class="last">			
+				<span class="avata avata-01">call</span>
+				<div>
+					<p><b>Ms. Quý</b></p>
+					<p>https://www.youtube.com/@Nangluongxanh_Halong</p>
+					<p class="pstyle">Tel/Zalo: 0974 207 749</p>							
+				</div>
+			</li>												
+		</ul>
+	</div>
+</div>
+</div>
+<!--
+<div class="support_del hidden-md hidden-lg">
+	<img src="/images/close_delete.png" alt="" />
+</div>-->
+</div>
+<nav id="menu">
+	<ul>
+
+	</ul>
+</nav>					</div>
+					<div class="hidden-sm hidden-xs col-md-12 col-sm-12 col-xs-12 bg_top">
+						<div class="navigation">
+   
+	<a style="display:none;" class="hidden-md hidden-lg" href="/"><img src="/images/banner-he.jpg" alt="" /></a>
+    <ul class="navigation_ul">
+        
+		<li class="mega-menu child-item">
+            <div style="display: none;" class="sub-menu">
+                <ul class="sub-menu" style="display: none;">					               
+                </ul>
+            </div>
+        </li> 
+        <li><p style="font-size:40px">NĂNG LƯỢNG XANH_ HẠ LONG!</p></li>	
+    </ul> 
+	</div>
+					</div>
+				</div>
+			</div>
+		</div>					<div class="menu_t">
+				</div>
+				<script>
+					jQuery("#nivoslider-4").nivoSlider({
+						effect:"random",
+						slices:15,
+						boxCols:8,
+						boxRows:4,
+						animSpeed:500,
+						pauseTime:4000,
+						startSlide:0,
+						directionNav:true,
+						controlNav:true,
+						controlNavThumbs:false,
+						pauseOnHover:true,
+						manualAdvance:false
+					});
+				</script>
+			</div>			
+		</div>
+				<div class="headhalong">
+			<div class="container align-section-title">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="mgt20">
+							<h1 class="h1home">Lắp đặt hệ thống năng lượng mặt trời năng lượng gió</h1>
+							<p style="font-size:14px">Tư vấn, thiết kế công trình năn lượng mặt trời từ 2KW đến 50KW...!</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="tophalong">
+			<div class="container divboxdb align-section-title">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="hei55">
+							<h4 class="dtgiatot"><a href="/Cac-goi-lap-dat/">Các Gói Lắp Đặt</a></h4>
+						</div>
+					</div>
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="">
+							<div class="jcarousel-wrapper">
+								<div class="jcarousel jcarousel01"> 
+									<ul class="row">
+																				<li class="col-md-4 col-sm-6 col-xs-12 tagli_"> 
+											<div class="box_cruises">	<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwhRiaGiptf7_6D00jAuVeufgQC5yZQKwFKvUXnpC_FNk3mnYeKm_4BC2AAGPY29FiScKG0rGVWXPfopqxBuEQhN9rNnI2Q17DjrRnHJmQ32uorJtL2JRyT7ZEiSbXw-p3sP3kLCXmh1S4wqFwsyInwcz9C8l3v44Kc8Z0JcDXPWKOZsm_TmUz_1XQlq86/s1600/w1.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="241" data-original-width="319" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwhRiaGiptf7_6D00jAuVeufgQC5yZQKwFKvUXnpC_FNk3mnYeKm_4BC2AAGPY29FiScKG0rGVWXPfopqxBuEQhN9rNnI2Q17DjrRnHJmQ32uorJtL2JRyT7ZEiSbXw-p3sP3kLCXmh1S4wqFwsyInwcz9C8l3v44Kc8Z0JcDXPWKOZsm_TmUz_1XQlq86/s1600/w1.png"/></a></div>
+												<div class="descFea">
+													<div class="titCruise">
+														<h4>
+															<a href="https://www.youtube.com/@Nangluongxanh_Halong/">Chi Phí Lắp Đặt 3KW</a> <img alt="" src="/images/hot.gif" />
+														</h4>
+																												<p class="pad8">
+																														<img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/5_star.png" alt="" />
+																													</p>
+																											</div>
+													<p class="pad3">
+														<i class="fa fa-map-marker" aria-hidden="true"></i>														
+														Lắp Đặt hệ thống 2KW bám tải không lưu trữ												
+													</p>
+												</div>
+											</div>
+											<div class="descbook">
+												<div class="col-md-6 col-sm-6 col-xs-6 marl5">
+													<p class="price_c_home">
+														<strong>Giá từ</strong><br>
+														<span>
+															9,000,000-11,000,000 VNĐ														</span>
+													</p>
+												</div>
+												<div class="col-md-6 col-sm-6 col-xs-6">
+													<p class="p_language marr15"><a href="https://www.youtube.com/@Nangluongxanh_Halong?post_id=7515" title="Đặt tàu"><img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/bookdt.png" alt="Đặt du thuyền" /></a></p>
+												</div>											
+											</div>
+										</li>
+																				<li class="col-md-4 col-sm-6 col-xs-12 tagli_"> 
+											<div class="box_cruises">	
+												<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlomMK2XEethIEzDroQ7_AtR8ymoXhWCON8PKUG_BB8viElKR2PQ9gvvPBAXiKtLrDM-kDcbOooTblj05_mNM-yqiSTgLH5uCLvUbJAackXS73I2hMCCHwTNLppwvs3XAe-rf6ygredsAOdxX5MImpl8-iCRHBwwn5jzX03wiiLZ1xT2TTZZrEuCm7w4y/s1600/w2.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="240" data-original-width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlomMK2XEethIEzDroQ7_AtR8ymoXhWCON8PKUG_BB8viElKR2PQ9gvvPBAXiKtLrDM-kDcbOooTblj05_mNM-yqiSTgLH5uCLvUbJAackXS73I2hMCCHwTNLppwvs3XAe-rf6ygredsAOdxX5MImpl8-iCRHBwwn5jzX03wiiLZ1xT2TTZZrEuCm7w4y/s1600/w2.png"/></a></div>
+												<div class="descFea">
+													<div class="titCruise">
+														<h4>
+															<a href="https://www.dulichhalong.net/duthuyen/hanh-trinh-du-thuyen-athena-2-ngay-1-dem/">Hành trình Thăm Vịnh Tuyến 2 &#8211; Đi 6-8 Tiếng</a> <img alt="" src="/images/hot.gif" />
+														</h4>
+																												<p class="pad8">
+																														<img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/5_star.png" alt="" />
+																													</p>
+																											</div>
+													<p class="pad3">
+														<i class="fa fa-map-marker" aria-hidden="true"></i>														
+														Vịnh Hạ Long, Hang Luồn (Chèo kayak), Hang Sửng Sốt, đảo Titop...												
+													</p>
+												</div>
+											</div>
+											<div class="descbook">
+												<div class="col-md-6 col-sm-6 col-xs-6 marl5">
+													<p class="price_c_home">
+														<strong>GIÁ VÉ TỪ</strong><br>
+														<span>
+															150,000-250,000 VNĐ														</span>
+													</p>
+												</div>
+												<div class="col-md-6 col-sm-6 col-xs-6">
+													<p class="p_language marr15"><a href="https://www.dulichhalong.net/book-du-thuyen/?post_id=3474" title="Đặt tàu"><img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/bookdt.png" alt="Đặt du thuyền" /></a></p>
+												</div>											
+											</div>
+										</li>
+																				<li class="col-md-4 col-sm-6 col-xs-12 tagli_"> 
+											<div class="box_cruises">	
+												<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYB0TCa18KUIfgcgJG3hBaWyJl-ejxu7Tred8h5KqJq9gVgpvmSH7XN9Se_g7NHsFO3ScDFzeCtS0s_bx133Vl2GQaGFXDc6fbx3SpL5otOI73zJrRP3SWBZRVfjVdZwNDroZNOSXaBcn46iqp_8-kwoDvTimebw1ppJPF4kkTm4EfMsPiOeWTcfDeSRsh/s1600/w3.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="241" data-original-width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYB0TCa18KUIfgcgJG3hBaWyJl-ejxu7Tred8h5KqJq9gVgpvmSH7XN9Se_g7NHsFO3ScDFzeCtS0s_bx133Vl2GQaGFXDc6fbx3SpL5otOI73zJrRP3SWBZRVfjVdZwNDroZNOSXaBcn46iqp_8-kwoDvTimebw1ppJPF4kkTm4EfMsPiOeWTcfDeSRsh/s1600/w3.png"/></a></div>
+												<div class="descFea">
+													<div class="titCruise">
+														<h4>
+															<a href="https://www.dulichhalong.net/duthuyen/tour-du-thuyen-la-regina-royal-2-ngay/">Tour Đi Đảo Hoang &#8211; Thời gian tùy chọn</a> <img alt="" src="/images/hot.gif" />
+														
+															
+                                                          
+																												<p class="pad8">
+																														<img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/5_star.png" alt="" />
+																													</p>
+																											</div>
+													<p class="pad3">
+														<i class="fa fa-map-marker" aria-hidden="true"></i>														
+														Vịnh Hạ Long, Hang Sửng Sốt, Đảo Titop, Hang Luồn (Chèo kayak)...												
+													</p>
+												</div>
+											</div>
+											<div class="descbook">
+												<div class="col-md-6 col-sm-6 col-xs-6 marl5">
+													<p class="price_c_home">
+														<strong>GIÁ TỪ</strong><br>
+														<span>
+															3,050,000 VNĐ														</span>
+													</p>
+												</div>
+												<div class="col-md-6 col-sm-6 col-xs-6">
+													
+						
+												</div> 
+											</div>
+										</a>
+																	</div>
+							</div>
+							<script>
+								jQuery(document).ready(function(){
+									var col = 0;
+									jQuery(".h_show .des-body .grid .col").each(function(){
+										col = col + 1;
+									});
+									for (var i = 0; i < 5 - col; i++) {
+										jQuery(".h_show .des-body .grid").append("<div class='col col" + (col+i) + "'>&nbsp;</div>");
+
+									}
+								});
+							</script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+		<div class="camnanghome">
+			<div class="container">
+				<div class="row mgb20">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="mar400">
+							<h3 class="h1home">Những Lí Do Nên Lắp Điện Năng Lượng Mặt Trời</h3>
+							<p style="font-size:14px">Các thông tin hữu khi lắp hệ thống điện năng lượng mặt trời</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="margin5">
+														<div class="loopcn col-md-6 col-sm-6 col-xs-12">
+								<div class="new-loop">
+									<div class="left">
+										<a href="https://www.youtube.com/@Nangluongxanh_Halong/">
+											<img width="185" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ8H6hCDt9ssDXqD1_Fwb2zCAWPoUzXK3Gk22lAeI5UZBuiztk3JdXNIr3I3WdcdRYa1UV1HBZ2l3arhRkQxYWN9WQeEk5skaaxxRpAs4ji4rh_BpZMGI3tLiY5bCUQkYjgaKzOCV2Mj0wqthEUoyeRT4XQKPP3QfNQPjHzteBgYMoN7kn4hTV-DJpk7vN/s1600/w4.png"/>										</a>
+									</div>
+									<div class="right">
+										<h3><a href="https://www.youtube.com/@Nangluongxanh_Halong/">Hệ thống điện mặt trời 2-3KW là hệ thống năng lượng phổ biến nhất</a></h3>
+										<div>
+											<p>Với lợi thế lặp đặt chi phí giá rẻ chỉ từ 9 đến 20 triệu. Hệ thống năng lượng mặt trời 2 đến 3KW trở nên phổ biến nhất tại các khu dân cư khu vực miền bắc. Chi phí lắp đặt giá rẻ, phù hợp với hầu hết người dân. Trong khi đó lượng điện tiết kiệm giảm lại rất lớn. Lắp đặt tối ưu cho các hộ gia đình.</p>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+														<div class="loopcn col-md-6 col-sm-6 col-xs-12">
+								<div class="new-loop">
+									<div class="left">
+										<a href="https://www.youtube.com/@Nangluongxanh_Halong">
+											<img width="150" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLknRmUP4GAl2y020Urz827OLX8CAqP0iPvkJFT65pSBDbmbzaxIzj8NjUSLqxRRBjwAAAJL1-fP1fNLK_Ag9-vuQzb-QmqHte6Z46G7H1Mm5TbJUULDYOxCUGJsH5cIWeQ3wIlMz8oA1MAvDWe0FKLoTB1Q_1RzjpH4fQZzbKaLE-3qvCoHRvQI8qdZWs/s1600/w6.jpg"/>										</a>
+									</div>
+									<div class="right">
+										<h3><a href="https://www.youtube.com/@Nangluongxanh_Halong/">Hệ Thống Từ 5KW trở lên</a></h3>
+										<div>
+											<p>Hệ thống này phù hợp với gia đình có nhiều hộ gia đình nhỏ bên trong, khi sử dụng lượng điện, lượng điều hòa lớn. Phù hợp với các nhà xưởng sản xuất, nhà hàng, quán ăn đồng khách vào tầm trưa. Là một giải pháp hữu hiệu để tiết kiệm, giảm chi phí sản xuất trong các nhà máy như xưởng may công nghiệp, xưởng giấy ,xưởng sơn, nhà lạnh lưu trữ đồ hải sản, trang trại gà lợn...</p>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+														<div class="loopcn col-md-6 col-sm-6 col-xs-12">
+								<div class="new-loop">
+									<div class="left">
+										<a href="https://www.youtube.com/@Nangluongxanh_Halong/">
+											<img width="185" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq2CgZXuaQcllZ1F0e2J9MnJBGsBb6ty_EYVAPnLvEt16aR4UcvY4Myx-DDcKsLQOXcWHC40JdjKjSqSwtlOYGzerrEFKqNR1qHWTLRT48-HTKLpBgx0rOteQ4bQe56dknKr2vGsEHDVMjL3WrGNj5LZE7S1eRdIcKRIZ5tJNhq-Z-kZe9oqu_B7ROphkE/s1600/w7.jpg"/>									</a>
+									</div>
+									<div class="right">
+										<h3><a href="https://www.youtube.com/@Nangluongxanh_Halong/">Hệ Thống Lắp Đặt Bám Tải</a></h3>
+										<div>
+											<p>Với cách lắp đặt truyền thống rất tốn kém chõ đồng hồ 2 chiều, hoặc hệ thống lưu trữ pin để dùng dần. Thì bằng phương pháp lắp đặt với hệ thống điện năng lượng bám tải. Bám tải là gì: là hệ thống điện năng lượng mặt trời được ưu tiên dùng cho các thiết bị điện trong gia đình trước, rồi mới bắt đầu lấy điện lưới. Nên sự tối ưu của hệ thống được tăng lên, chế độ tự động hóa giúp tối ưu chi phí, tối ưu điện năng tiêu thụ.</p>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+														<div class="loopcn col-md-6 col-sm-6 col-xs-12">
+								<div class="new-loop">
+									<div class="left">
+										<a href="https://www.youtube.com/@Nangluongxanh_Halong/">
+											<img width="185" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicTMTXOOOVzEs8svWdFaaxZ-znGQefosEOKoiQaxb6duOvcs1mk0A24XFstwhhXPXmfXyaZG8xtdvUTRVpYbc-Lrv7sfrf94C9kN-j0DH8asaYEn9K5r905O-XtCiYW_iOaPyA6WcbnqZHZuAj74GxvPEjPn4g-3BzkSTNXN4V1NRWL1RNBIUHG0zUsmR-/s1600/w8.jpg"/>										</a>
+									</div>
+									<div class="right">
+										<h3><a href="https://www.youtube.com/@Nangluongxanh_Halong/">Bảo Hành 25 Năm</a></h3>
+										<div>
+											<p>Pin mới bảo hành 25 năm chất lượng sản phẩm. Dịch vụ chuyên nghiệp nhanh gọn. Quý khách hàng chỉ cần để lại số địa thoại, để nhận tư vấn từ nhân viên tư vấn. Lắp đặt nhanh gọn, nhiều tổ đội phủ khắp miền đất nước. Để quá trình làm việc diễn ra thuận lợi theo hợp đồng. Rất cần sự hợp tác của Quý Khách hàng, cung cấp số KW điện dùng, các thiết bị dùng điện vào thời gian cao điểm. Địa điểm lắp đặt. </p>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+														<div class="xemthemcn col-md-12 col-sm-12 col-xs-12">
+								<a href="https://www.youtube.com/@Nangluongxanh_Halong/" title="">Xem tất cả...</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="boxclearn"></div>
+		<div class="gioithieuhome">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4" style="margin-top:10px;">
+						<iframe style="border: 0;" src="https://www.youtube.com/channel/UCl0qt7A5ATfpucq4el0spPA" width="100%" height=""></iframe>
+					</div>
+					<div class="col-md-8">
+						<h2 class="h2home"><a href="/Nangluongmattroi/">Năng Lượng Mặt Trời</a></h2>
+						<p style="line-height:17px !important;">
+							<strong>Năng Lượng Mặt Trời</strong> Độ nghiêng tấm pin để nhận được ánh nắng tốt nhất khu vực miền bắc là 20 đến 22 độ. 
+Lắp điện năng lượng bám tải: Không cần dùng pin lưu trữ, hệ thống năng lượng mặt trời thông qua inventer ( Biến tần) tự động ưu tiên tiêu thụ điện năng lượng mặt trời trước khi lấy điện lưới. Hiểu một cách nôm na, dùng biến tần để giảm tải dòng điện lưới sử dụng, qua đó giúp giảm số điện tiêu thụ.
+						</p>
+						<p style="line-height:17px !important;">
+							Khi lắp hệ thống năng lượng mặt trời, nên sử dụng tối đa thiết bị tiêu thụ điện vào thời gian trời nắng nhất, là từ 10h sáng đến tầm 15h. Lắp đặt hệ thống năng lượng thích hợp, cho hộ gia đình dùng điều hòa, nấu ăn bằng bếp từ. <a href="/@Nangluongxanh_Halong/"><strong>Năng Lượng Xanh_Hạ Long</strong></a> Cung cấp lắp đặt các hệ thống trọn gói <a href="https://www.youtube.com/channel/UCl0qt7A5ATfpucq4el0spPA/" target="_blank"><strong>Năng Lượng Xanh_Hạ Long</strong></a> - Năng lượng mặt trời rất thích hợp cho các công ty, nhà xưởng may mặc, sử dụng máy may công nghiệp, hoặc nhà máy, công ty sử dụng máy móc công nghiệp hoạt động liên tục, nhà máy gạch ngói không nung…. Lắp đặt hệ thống năng lượng cho nhà hàng, kho đông lạnh, làng nghề sử dụng các máy công cụ, hệ thống chăn nuôi lợn gà, hệ thống nuôi tôm, nuôi cá. Phục vụ bà con vùng sâu xa, vùng biển.
+ <a href="@Nangluongxanh_Halong">Lắp đặt các hệ thống năng lượng từ 2 đến 50KW</a>, Tác dụng khác của tấm pin năng lượng mặt trời, chúng giúp giảm nhiệt từ mặt trời xuống ngôi nhà thân yêu, tự nhiên tấn pin năng lượng mặt trời trở thành một lớp chống nóng hữu hiệu cho ngày hè oi bức. Một lần đầu tư, mà công dụng đôi ba việc.
+Pin bảo hành 25 năm, sử dụng trọn đời. 
+Hóa đơn dịch vụ đầy đủ, hệ thống lắp đặt nhanh chóng chính xác.
+<br />
+							
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>		
+				<div class="abt hidden-sm hidden-xs">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 footer_link">
+						<div class="row">
+							<div class="col-md-3 col-xs-6">
+								<div class="link_duthuyen">
+									
+</ul>								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="ft">
+			<div class="container">
+				<div class="pad25">
+					<div class="col-md-9" style="padding:0;">
+						<div class="row">
+							<div class="col-md-6 col-sm-12 col-xs-12">
+								<div class="left_footer_total">
+									<h3><a href="https://www.youtube.com/channel/UCl0qt7A5ATfpucq4el0spPA/" title="" rel="nofollow" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSGRA27cofTyqGwNf0QPRe2LswtGBGP5Uj84kxJkvChOMwLKsx-oNi3NBb4ogfspikhOK_f30wKI3rXOFaYX8uw1IxgziZZ1luaad7SC1tAoShWjs_4-KMAHivlShuf2rdMLez-JBhMf3SypqompcQ9q02CI8aaxdwGQ9BOBoC9_GNIzmW2ng9q493s7lB/s1600/we.png"/></a></h3>
+									<p style="font-size:16px;">Năng Lượng Xanh</p>		
+									<p>Chúng tôi giúp Quý Khách hàng tiết kiệm chi phí điện sinh hoạt, qua đó nâng cao chất lượng cuộc sống, giảm chi phí sản xuất, giảm giá thành sản phẩm, tăng giá trị thặng dư sản phẩm, hàng hóa</p>		
+									<p>Hướng dẫn thanh toán <a href="/dieu-khoan/">(Xem chi tiết)</a></p>
+									<div style="padding-bottom:15px;">
+										<img src="https://www.dulichhalong.net/wp-content/themes/halong/images/ck.png" alt="thanh toan" width="" height="" />
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6 col-xs-6">
+								<div class="left_footer_total">
+									<h3>VỀ CHÚNG TÔI</h3>
+									<ul id="menu-travel-inpormation" class="menu-travel-inpormation">
+										<li id="menu-item-759"><a href="/chung-toi/">Giới thiệu công ty</a></li>												
+										<li id="menu-item-482"><a href="/dieu-khoan/">Điều khoản</a></li>
+										<li id="menu-item-631"><a href="/dieu-khoan/">Chính sách hoàn hủy</a></li>
+										<li id="menu-item-357"><a href="/cau-hoi-thuong-gap/">Câu hỏi thường gặp</a></li>
+										<li><a href="/tuyen-dung/">Tuyển dụng</a></li>
+										<li id="menu-item-176"><a href="/lien-he/">Liên hệ</a></li>
+									</ul>							
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6 col-xs-6">
+								<div class="left_footer_total">
+									<h3>Hệ Thống Tham Khảo</h3>
+									<ul id="menu-travel-inpormation" class="menu-travel-inpormation">
+										<li id="menu-item-759"><a href="/vinh-ha-long/">Hệ Thống 2KW</a></li>
+										<li id="menu-item-631"><a href="/thu-vien-anh-ha-long/">Hệ Thống 3KW</a></li>
+										<li id="menu-item-631"><a href="/diem-du-lich/">Hệ Thống 4KW</a></li>
+										<li id="menu-item-357"><a href="/cam-nang-du-lich/">Hệ Thống 5KW</a></li>
+										<li id="menu-item-482"><a href="/am-thuc/">Hệ Thống 6KW</a></li>
+										<li id="menu-item-176"><a href="/tin-tuc-du-lich/">Hệ Thống 7KW</a></li>
+									</ul>							
+								</div>
+							</div>
+							<div class="col-md-12 col-sm-12 col-xs-12">
+								<div class="copyright">
+									<p>COPYRIGHT © 2024 - <b>CTY TNHH Năng Lượng Xanh_Hạ Long</b><br />
+									Hệ thống chuyên cung cấp, lắp đặt thiết bị điện năng lượng xanh<br />
+									Trụ sở chính: Số 86 Bờ Hồ Hùng Thắng-Hùng Thắng Hạ Long -Quảng Ninh<br />
+									Giấy phép kinh doanh số 0105800532 do sở KH&ĐT Tỉnh Quảng Ninh cấp ngày 23 tháng 2 năm 2022<br />
+									Giấy phép kinh doanh  số: 01-653/TCDL-GPLHQT</p>
+									<iframe style="color:#5c92bd;border:none; overflow:hidden;height:30px;width:100%; border: 0px; overflow:hidden;" src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/profile.php?id=61556587472810"></iframe>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-12 col-xs-12">
+						<div class="">
+							<h3 style="font-size:20px;">Hỗ trợ miễn phí 24/7</h3>
+							<div class="hotline"><img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/icon/ico-dt.png" alt="" /> 0974 207 749</div>
+							<div class="hotline" style="letter-spacing: 0.5px;"><img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/icon/ico-phone.png" alt="" /> 0974 207 749</div>
+							<p class="pft">Tổng đài hỗ trợ 24/7 hoặc gửi email về <br />
+							địa chỉ <a href="mailto:https://www.youtube.com/channel/UCl0qt7A5ATfpucq4el0spPA" style="text-decoration:underline;">https://www.youtube.com/channel/UCl0qt7A5ATfpucq4el0spPA</a>, chúng<br />
+							tôi sẽ phản hồi trong ngày làm việc</p>									
+							<div class="ftimg"><a href="https://www.youtube.com/channel/UCl0qt7A5ATfpucq4el0spPA" title="" rel="nofollow"><img src="https://www.dulichhalong.net/wp-content/themes/halong/ver2/img/icon/icon-bct.png" alt="đã thông báo BCT" style="margin-left:-2px;" /></a></div>
+							<div class="ftimg"><a href="//www.dmca.com/Protection/Status.aspx?ID=d0a859c1-1e74-4879-99f2-653e447bae5f" title="DMCA.com Protection" rel="nofollow" class="dmca-badge"> <img src="/images/dmca_5.png" alt="DMCA.com Protection" class="mglpro" /></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+						<div class="form_reply_qa">
+						<div class="a_r_form" id="a_r_form_id">
+				<form onsubmit="return checkformreply()" class="a_form_reply" id="comment_reply" name="comment_reply" method="post" action="?sendreply=true#comments">
+					<div class="a_r_form_title"> <span>Your Reply</span> <span class="a_r_form_close"></span> </div> 
+					<div class="a_r_form_cont">  
+						<label>Tên của bạn</label><br/>
+						<input style="border:1px solid #A6A6A6;width:50%;" type="text" value="" name="nameTopicReply" id="nameTopicReply" /><br/>
+						<div class="cls_red er_nameTopicReply"></div><br/>
+						<label>E-mail *</label><br/>
+						<input style="border:1px solid #A6A6A6;width:50%;" type="text" value="" name="askTopicReply" id="askTopicReply" /><br/>
+						<div class="cls_red er_askTopicReply"></div><br/>
+						<label>Nội dung</label> <br/>
+						<textarea id="rcontent" name="rcontent" rows="4" cols="10"></textarea>  
+						<div class="cls_red er_rcontent"></div><br/>
+						<!--
+						<div>
+							<span>Nhập mã code: </span>
+							<input style="width: auto;margin-top:0;" type="text" class="maReply" name="maReply" id="maReply" value="" />
+							<div class="cls_red er_maReply"></div>
+						</div>
+						<div style="padding: 5px 0;">
+							<img style="margin-left: 82px;float:none;" class="Security" src="https://www.dulichhalong.net/wp-content/themes/halong/CaptchaImage.php?rand=PT2dAR" alt="" /><br/>
+						</div>
+						-->
+					</div>
+					<input type='hidden' value="true" id="sendreply" name="sendreply" />
+					<input type='hidden' value="" id="comment_id" name="comment_id" /> 
+					<input type="hidden" value="2" name="selected_tab_reply" id="selected_tab_reply" />
+					<input type='submit' class="a_r_form_submit" value="" />
+					<img class="a_r_form_reset" id="form_reply_reset" style="float:left;" alt="" src="https://www.dulichhalong.net/wp-content/themes/halong/images/button-reset.gif" />
+				</form>
+				<script>													
+					jQuery(document).ready(function() {							
+						jQuery( "#form_reply_reset" ).click(function() {
+							jQuery( "#nameTopicReply" ).val("");
+							jQuery( "#askTopicReply" ).val("");
+							jQuery( "#rcontent" ).val("");
+							jQuery( "#maReply" ).val("");
+						});		
+					});												
+				</script>
+				<script>
+					function checkformreply(){
+						if (document.comment_reply.nameTopicReply.value.length == ''){
+							//alert("Name is required.");
+							jQuery(".er_nameTopicReply").html("Name is required.");
+							document.comment_reply.nameTopicReply.focus();
+							return false;
+						}
+						else{
+							jQuery(".er_nameTopicReply").html("");
+						}
+						if (document.comment_reply.askTopicReply.value.length == ''){
+							//alert("Email is required.");
+							jQuery(".er_askTopicReply").html("Email is required.");
+							document.comment_reply.askTopicReply.focus();
+							return false;
+						}
+						else{
+							jQuery(".er_askTopicReply").html("");
+						}
+
+						if ((document.comment_reply.askTopicReply.value.indexOf('@') == -1) || (document.comment_reply.askTopicReply.value.indexOf('.') == -1)){
+							//alert("Please enter a valid email address like you@domain.com");
+							jQuery(".er_askTopicReply").html("Please enter a valid email address like you@domain.com");
+							return false;
+						}
+						else{
+							jQuery(".er_askTopicReply").html("");
+						}
+						
+						if (document.comment_reply.rcontent.value.length == ''){
+							//alert("Details (optional) is required.");
+							jQuery(".er_rcontent").html("Details (optional) is required.");
+							document.comment_reply.rcontent.focus();
+							return false;
+						}
+						else{
+							jQuery(".er_rcontent").html("");
+						}
+							
+						if (document.comment_reply.maReply.value.length == ''){
+							//alert("Security code is required.");
+							jQuery(".er_maReply").html("Security code is required.");
+							document.comment_reply.maReply.focus();
+							return false;
+						}
+						else{
+							jQuery(".er_maReply").html("");
+						}
+						//alert(document.comment_reply.maReply.value);
+						if (document.comment_reply.maReply.value != 'PT2dAR')
+						{
+							jQuery(".er_maReply").html("You entered the wrong security code!");
+							document.comment_reply.maReply.focus();
+							return false;
+						}
+						else{
+							jQuery(".er_maReply").html("");
+						}
+						return true;
+					}
+				</script>
+							</div>
+						<script>
+				jQuery(document).ready(function(){
+					jQuery(".a_r_form").hide();
+					jQuery(".a_r_form_close").click(function(){
+						jQuery(".a_r_form").hide();
+						jQuery(".g_overlay").hide();
+					});
+					jQuery(".a_list .a_btn_reply").click(function(){
+						var left=(jQuery(window).width()-jQuery(".a_r_form").width())/2;
+						//if(jQuery(window).width()<(jQuery(".a_r_form").width()+190)){
+						//	left = left;
+						//}
+						//else{
+						//	left = left - 250;
+						//}
+						jQuery(".a_r_form").css("left",left+"px");
+						var offsetTop=(jQuery(window).height()-jQuery(".a_r_form").height())/2;
+						if(offsetTop < (jQuery(".a_r_form").height()/2)){
+							offsetTop = offsetTop - 150;
+						}
+						else{
+							offsetTop = 150;
+						}
+						offsetTop=jQuery(document).scrollTop()+offsetTop;
+						jQuery(".a_r_form").animate({top:offsetTop});
+						jQuery(".a_r_form").show();
+						jQuery(".g_overlay").show();
+						//gan gia tri commentid cho input comment_id
+						jQuery("#comment_id").val(jQuery(this).attr("title"));
+					});
+				});
+			</script>
+			<script>													
+				jQuery(document).ready(function() {														
+								});												
+			</script>
+			<!-- like and dislike cmt -->
+			<script>
+				jQuery(document).ready(function(){
+					jQuery(".a_list .a_btn_good").click(function(){
+						jQuery.ajax({
+							context: this,
+							type : 'POST',
+							data : {'action' : 'a_btn_good_like', 'commentID' : jQuery(this).attr("title"), 'userIP' : '14.249.48.74'},
+							url : 'https://www.dulichhalong.net/wp-admin/admin-ajax.php',
+							success : function (resp){
+								jQuery(this).html(resp);
+							}
+						});
+					});
+					jQuery(".a_list .a_btn_bad").click(function(){
+						jQuery.ajax({
+							context: this,
+							type : 'POST',
+							data : {'action' : 'a_btn_bad_like', 'commentID' : jQuery(this).attr("title"), 'userIP' : '14.249.48.74'},
+							url : 'https://www.dulichhalong.net/wp-admin/admin-ajax.php',
+							success : function (resp){
+								jQuery(this).html(resp);
+							}
+						});
+					});
+				});
+			</script>
+		</div>
+		<div style="position: absolute; left: 0px; top: 0px; width: 100%; background-color: rgb(49, 95, 140); z-index: 8; opacity: 0.3; height: 8688px; display:none;" class="g_overlay"></div>
+		</body>
+</html>		
